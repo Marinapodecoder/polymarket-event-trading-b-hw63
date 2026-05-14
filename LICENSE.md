@@ -1,4 +1,4 @@
-# 
+# vip Polymarket Plugin | stop-loss-management + order-book-analysis offers the most advanced Polymarket plugin, with stop-loss-management and order-book-analysis. Ideal for
 
 
 
